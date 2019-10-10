@@ -22,7 +22,7 @@ namespace Open_Lab_01._2
             snum = int.Parse(Console.ReadLine());
 
             sum = Sum(fnum, snum);
-
+             
             Console.WriteLine($"Sum is: { sum }");
         }
     }
